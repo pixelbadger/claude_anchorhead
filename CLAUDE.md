@@ -17,11 +17,30 @@ This repository contains **Anchorhead** by Michael S. Gentry, a classic interact
 │   ├── play.sh           # Execute a single command
 │   ├── status.sh         # Check current location and inventory
 │   └── new.sh            # Start a fresh game
-├── state/                # Game state and logs
+├── state/                # Game state (gitignored - local only)
 │   ├── anchorhead.sav.qzl    # Current save file
-│   └── TRANSCRIPT.md         # Complete gameplay log
-└── claude.md             # This guide
+│   ├── TRANSCRIPT.md         # Game-only reference log
+│   └── *.txt                 # Session tracking files
+├── CONVERSATION.md       # Primary log (committed to git)
+├── CONVERSATION.*.md     # Archived logs (committed to git)
+└── CLAUDE.md             # This guide
 ```
+
+## Git Repository
+
+### What's Tracked
+- ✅ **Game file** (`anchor.z8`) - The Anchorhead game itself
+- ✅ **Scripts** (`scripts/*.sh`) - Helper scripts for playing
+- ✅ **Documentation** (`CLAUDE.md`, `README.md`) - Project documentation
+- ✅ **Conversation logs** (`CONVERSATION*.md`) - Complete gameplay narratives with Claude's thinking
+
+### What's Ignored
+- ❌ **State folder** (`state/`) - Gitignored via `.gitignore`
+  - Save files (`.qzl`) - Change every command
+  - Transcript logs - Duplicates content in CONVERSATION.md
+  - Session tracking files - Local session state only
+
+**Why?** State files change with every single command and would create massive commit noise. The important narrative (your requests + Claude's thinking + game responses) is preserved in `CONVERSATION.md` which IS committed to git.
 
 ## How It Works
 
@@ -83,10 +102,11 @@ All gameplay is automatically logged to multiple files:
 - **Purpose**: Single source of truth showing both Claude's thinking AND game responses
 
 ### Game Transcript (Reference)
-- **File**: `state/TRANSCRIPT.md`
+- **File**: `state/TRANSCRIPT.md` (gitignored - local only)
 - **Format**: Markdown with timestamps
 - **Contents**: Game-only view (commands and responses, no Claude commentary)
 - **Purpose**: Clean reference log for reviewing pure gameplay
+- **Note**: Not committed to git; CONVERSATION.md contains all game output plus context
 
 ### Session Tracking
 - **File**: `state/last_conv_line.txt` - Tracks which conversation lines have been processed

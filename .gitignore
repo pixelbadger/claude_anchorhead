@@ -1,0 +1,8 @@
+# Game state files (saves, transcripts, tracking)
+# These change with every command and shouldn't be committed
+state/
+
+# Always commit conversation logs
+# These preserve the complete gameplay narrative and Claude's thinking
+!CONVERSATION.md
+!CONVERSATION.*.md
