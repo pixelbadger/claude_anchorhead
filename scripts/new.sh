@@ -59,6 +59,18 @@ OUTPUT=$(echo -e "\nlook\nsave\n$SAVE\nquit\ny" | dfrotz -m -p -q "$GAME" 2>&1)
     echo '```'
 } >> "$TRANSCRIPT"
 
+# Log to conversation
+{
+    echo "### 🎮 New Game Started"
+    echo ""
+    echo "_$(date '+%Y-%m-%d %H:%M:%S')_"
+    echo ""
+    echo '```'
+    echo "$OUTPUT"
+    echo '```'
+    echo ""
+} >> "$CONVERSATION"
+
 echo "=== New Game Started ==="
 echo ""
 echo "$OUTPUT"

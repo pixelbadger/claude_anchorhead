@@ -110,7 +110,7 @@ if [ -f "$ACTIVE_SESSION" ]; then
                             elif .type == "text" then
                                 .text + "\n"
                             elif .type == "tool_use" then
-                                "Action: " + (.input.description // .name) + "\n"
+                                "**🎮 Command:** `" + (.input.command // .name) + "`\n"
                             else empty
                             end
                         ] | join("\n")) + "\n"] |
@@ -125,6 +125,16 @@ if [ -f "$ACTIVE_SESSION" ]; then
         echo "$CURRENT_LINES" > "$LAST_LINE_FILE"
     fi
 fi
+
+# Append game output to conversation log
+{
+    echo "### 📖 Game Response"
+    echo ""
+    echo '```'
+    echo "$OUTPUT"
+    echo '```'
+    echo ""
+} >> "$CONVERSATION"
 
 # Output the result
 echo "$OUTPUT"

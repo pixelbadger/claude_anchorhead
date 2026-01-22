@@ -68,29 +68,32 @@ Archives the current save (if it exists) and starts fresh. The old save is prese
 
 All gameplay is automatically logged to multiple files:
 
-### Game Transcript
-- **File**: `state/TRANSCRIPT.md`
-- **Format**: Markdown with timestamps
-- **Contents**: Just the game commands and responses
-
-### Conversation Log (Dynamic)
+### Unified Conversation Log ⭐ PRIMARY LOG
 - **File**: `CONVERSATION.md`
 - **Format**: Markdown with collapsible thinking blocks
-- **Contents**: Complete Claude Code session including:
-  - Your messages
-  - Claude's thinking process (in `<details>` blocks)
-  - Claude's responses and explanations
-  - All tool calls with parameters
-  - Timestamps for everything
+- **Contents**: Complete unified log including:
+  - 🧑 **User messages** - Your requests and instructions
+  - 💭 **Claude's thinking** - Decision-making process (in collapsible `<details>` blocks)
+  - 💬 **Claude's responses** - Explanations and commentary
+  - 🎮 **Game commands** - The actual commands sent to the game
+  - 📖 **Game output** - Complete responses from Anchorhead (in code blocks)
+  - ⏱️ **Timestamps** - For all messages and actions
 - **Updates**: Automatically appended after each `play.sh` command
 - **Day boundaries**: New date headers added when the day changes
+- **Purpose**: Single source of truth showing both Claude's thinking AND game responses
+
+### Game Transcript (Reference)
+- **File**: `state/TRANSCRIPT.md`
+- **Format**: Markdown with timestamps
+- **Contents**: Game-only view (commands and responses, no Claude commentary)
+- **Purpose**: Clean reference log for reviewing pure gameplay
 
 ### Session Tracking
 - **File**: `state/last_conv_line.txt` - Tracks which conversation lines have been processed
 - **File**: `state/last_conv_date.txt` - Tracks current date for day boundaries
 - **Source**: `~/.claude/projects/-home-droid-anchorhead/*.jsonl` - Raw session data
 
-The conversation log preserves the full context and Claude's decision-making process, not just the game commands.
+**CONVERSATION.md is the primary log** - it shows the complete story of both Claude's reasoning and the game's responses in chronological order.
 
 ## Playing the Game
 
@@ -130,11 +133,17 @@ Type `help` in-game for more information.
 - `-L` - Load save file directly
 
 **Conversation logging mechanism:**
-- After each game command, `play.sh` checks for new entries in the Claude session JSONL
-- Only processes lines since the last update (delta processing)
-- Uses single-pass jq for efficient batch processing (not line-by-line loops)
-- Appends formatted conversation entries to `CONVERSATION.md`
-- Tracks position with `state/last_conv_line.txt`
+- After each game command, `play.sh` performs two logging operations:
+  1. **Claude session sync**: Checks for new entries in the Claude session JSONL
+     - Only processes lines since the last update (delta processing)
+     - Uses single-pass jq for efficient batch processing (not line-by-line loops)
+     - Extracts user messages, thinking blocks, and tool calls
+     - Tracks position with `state/last_conv_line.txt`
+  2. **Game output append**: Directly appends the game's response
+     - Captures complete output in formatted code blocks
+     - Ensures game responses appear immediately after commands
+- Both operations write to `CONVERSATION.md` for unified logging
+- Result: Complete chronological log of thinking → command → game response
 
 The scripts handle all the save/load/quit sequences and conversation syncing automatically so you can focus on playing the game.
 
