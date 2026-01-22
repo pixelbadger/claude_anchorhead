@@ -110,7 +110,7 @@ if [ -f "$ACTIVE_SESSION" ]; then
                             elif .type == "text" then
                                 .text + "\n"
                             elif .type == "tool_use" then
-                                "**🔧 Tool: " + .name + "**\n```json\n" + (.input | tojson) + "\n```\n"
+                                "Action: " + (.input.description // .name) + "\n"
                             else empty
                             end
                         ] | join("\n")) + "\n"] |
