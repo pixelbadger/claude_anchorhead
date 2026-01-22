@@ -1372,3 +1372,82 @@ Ok.
 
 Are you sure you want to quit? 
 ```
+
+## 2026-01-22 00:36:00
+
+> look
+
+```
+
+
+>
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:36:43
+
+> i
+
+```
+
+
+>
+
+You are wearing your wedding ring, your trenchcoat and your clothes; in
+addition, you have in your hand your umbrella.
+
+The pockets of your trenchcoat are empty.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:39:02
+
+> look
+
+```
+
+
+>
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```

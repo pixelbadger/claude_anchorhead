@@ -87,24 +87,38 @@ if [ -f "$ACTIVE_SESSION" ]; then
         fi
 
         # Extract and format new lines - batch process with jq for speed
+        # Group consecutive messages from same actor under single header
         NEW_START=$((LAST_LINE + 1))
-        tail -n +$NEW_START "$ACTIVE_SESSION" | jq -r '
-            if .type == "user" then
-                "## 🧑 User\n_" + (.timestamp | sub("T"; " ") | sub("\\..*"; "")) + "_\n\n" + .message.content + "\n"
-            elif .type == "assistant" then
-                "## 🤖 Assistant\n_" + (.timestamp | sub("T"; " ") | sub("\\..*"; "")) + "_\n\n" +
-                ([.message.content[]? |
-                    if .type == "thinking" then
-                        "<details><summary>💭 Thinking</summary>\n\n" + .thinking + "\n</details>\n"
-                    elif .type == "text" then
-                        .text + "\n"
-                    elif .type == "tool_use" then
-                        "**🔧 Tool: " + .name + "**\n```json\n" + (.input | tojson) + "\n```\n"
-                    else empty
-                    end
-                ] | join("\n")) + "\n"
-            else empty
-            end
+        tail -n +$NEW_START "$ACTIVE_SESSION" | jq -rs '
+            . as $msgs |
+            reduce ($msgs[] | select(.type == "user" or .type == "assistant")) as $curr (
+                {output: [], prev_type: null};
+
+                # Determine if user message content is a string (real message) or array (tool_result)
+                if $curr.type == "user" and ($curr.message.content | type) == "string" then
+                    .output += [(if .prev_type != "user" then "\n## 🧑 User\n" else "" end) +
+                        "_" + ($curr.timestamp | sub("T"; " ") | sub("\\..*"; "")) + "_\n\n" +
+                        $curr.message.content + "\n"] |
+                    .prev_type = "user"
+
+                elif $curr.type == "assistant" then
+                    .output += [(if .prev_type != "assistant" then "\n## 🤖 Assistant\n" else "" end) +
+                        "_" + ($curr.timestamp | sub("T"; " ") | sub("\\..*"; "")) + "_\n\n" +
+                        ([$curr.message.content[]? |
+                            if .type == "thinking" then
+                                "<details><summary>💭 Thinking</summary>\n\n" + .thinking + "\n</details>\n"
+                            elif .type == "text" then
+                                .text + "\n"
+                            elif .type == "tool_use" then
+                                "**🔧 Tool: " + .name + "**\n```json\n" + (.input | tojson) + "\n```\n"
+                            else empty
+                            end
+                        ] | join("\n")) + "\n"] |
+                    .prev_type = "assistant"
+
+                else .
+                end
+            ) | .output | join("")
         ' 2>/dev/null >> "$CONVERSATION" || true
 
         # Update last processed line
