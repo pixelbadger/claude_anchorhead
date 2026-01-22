@@ -595,3 +595,369 @@ Ok.
 
 Are you sure you want to quit? 
 ```
+
+## 2026-01-22 00:15:20
+
+> look
+
+```
+
+
+>
+
+
+Peering through the murk, you can make out the blocky outlines of filing
+cabinets lining the walls and a doorway to the west. A window high up on the
+south wall lets in a very faint illumination.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:16:45
+
+> search filing cabinets
+
+```
+
+
+>
+
+There must be hundreds of files here, too many to browse through. You'll have to
+look up something specific if you want to find anything.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:16:50
+
+> w
+
+```
+
+
+>
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:16:55
+
+> play answering machine
+
+```
+
+
+>
+
+For a while there is nothing but a quiet hiss, followed by intermittent skirls
+of strange-sounding static. It sounds like one of those annoying glitches where
+the caller hangs up but the machine keeps recording anyway. Then, barely audible
+through the static, you detect what sounds like a human voice whispering a
+single word:
+
+
+
+The machine beeps.
+
+A brief shudder ripples up your back. You remember now, "Verlac" is the name of
+this branch of Michael's family.
+
+You can hear a fly buzzing around, right around your head.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:01
+
+> examine desk
+
+```
+
+
+>
+
+The top of the desk is littered with paperwork -- notes, messages, files, etc.;
+the way most desks tend to get at the end of a busy day. A telephone sits on one
+corner, next to a digital answering machine. There is a small drawer to one
+side.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:05
+
+> open drawer
+
+```
+
+
+>
+
+It seems to be locked.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:10
+
+> search papers
+
+```
+
+
+>
+
+Sifting through the paperwork, you find nothing that catches your attention.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:15
+
+> w
+
+```
+
+
+>
+
+(opening the real estate office door first)
+It seems to be locked.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:19
+
+> i
+
+```
+
+
+>
+
+You are wearing your wedding ring, your trenchcoat and your clothes; in
+addition, you have in your hand your umbrella.
+
+The pockets of your trenchcoat are empty.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:24
+
+> e
+
+```
+
+
+>
+
+
+Peering through the murk, you can make out the blocky outlines of filing
+cabinets lining the walls and a doorway to the west. A window high up on the
+south wall lets in a very faint illumination.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:28
+
+> climb through window
+
+```
+
+
+>
+
+You can't see any such thing.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:33
+
+> out
+
+```
+
+
+>
+
+It's a tight squeeze, but you just manage to wriggle through, dropping
+gracelessly into the alley outside.
+The rain is still coming down, so you open your umbrella.
+
+
+This narrow aperture between two buildings is nearly blocked with piles of
+rotting cardboard boxes and overstuffed garbage cans. Ugly, half-crumbling brick
+walls to either side totter oppressively over you. The alley ends here at a
+tall, wooden fence.
+
+High up on the wall of the northern building there is a narrow, transom-style
+window. One of the garbage cans has been pushed up against the wall directly
+underneath it.
+
+The clouds overhead mutter restlessly to themselves.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:38
+
+> nw
+
+```
+
+
+>
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:43
+
+> w
+
+```
+
+
+>
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:17:49
+
+> s
+
+```
+
+
+>
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
