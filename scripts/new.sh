@@ -24,6 +24,20 @@ if [ -f "$SAVE" ]; then
     echo "Archived previous save to: $ARCHIVE"
 fi
 
+# Reset conversation tracking (new game = fresh start)
+# Note: We don't reset CONVERSATION.md itself, just add a marker
+CONVERSATION="$GAME_DIR/CONVERSATION.md"
+{
+    echo ""
+    echo "---"
+    echo ""
+    echo "# 🎮 New Game Started - $(date '+%A, %B %d, %Y at %H:%M:%S')"
+    echo ""
+} >> "$CONVERSATION"
+
+# Update the date tracker
+date '+%Y-%m-%d' > "$GAME_DIR/state/last_conv_date.txt"
+
 # Start new game, press enter to begin, save
 OUTPUT=$(echo -e "\nlook\nsave\n$SAVE\nquit\ny" | dfrotz -m -p -q "$GAME" 2>&1)
 

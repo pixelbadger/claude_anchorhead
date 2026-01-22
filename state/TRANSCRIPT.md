@@ -334,3 +334,49 @@ Ok.
 
 Are you sure you want to quit? 
 ```
+
+## 2026-01-22 00:07:01
+
+> look
+
+```
+
+
+>
+
+
+Peering through the murk, you can make out the blocky outlines of filing
+cabinets lining the walls and a doorway to the west. A window high up on the
+south wall lets in a very faint illumination.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
+
+## 2026-01-22 00:10:04
+
+> look
+
+```
+
+
+>
+
+
+Peering through the murk, you can make out the blocky outlines of filing
+cabinets lining the walls and a doorway to the west. A window high up on the
+south wall lets in a very faint illumination.
+
+>Please enter a filename [/home/droid/anchorhead/state/anchorhead.sav.qzl]: Overwrite existing file? 
+
+Ok.
+
+>
+
+Are you sure you want to quit? 
+```
