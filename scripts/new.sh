@@ -25,17 +25,23 @@ if [ -f "$SAVE" ]; then
 fi
 
 # Reset conversation tracking (new game = fresh start)
-# Note: We don't reset CONVERSATION.md itself, just add a marker
 CONVERSATION="$GAME_DIR/CONVERSATION.md"
+
+# Archive old conversation if it exists
+if [ -f "$CONVERSATION" ]; then
+    CONV_ARCHIVE="$GAME_DIR/CONVERSATION.$(date '+%Y%m%d-%H%M%S').md"
+    mv "$CONVERSATION" "$CONV_ARCHIVE"
+    echo "Archived previous conversation to: $CONV_ARCHIVE"
+fi
+
+# Create fresh CONVERSATION.md
 {
-    echo ""
-    echo "---"
-    echo ""
     echo "# 🎮 New Game Started - $(date '+%A, %B %d, %Y at %H:%M:%S')"
     echo ""
-} >> "$CONVERSATION"
+} > "$CONVERSATION"
 
-# Update the date tracker
+# Reset tracking files
+echo "0" > "$GAME_DIR/state/last_conv_line.txt"
 date '+%Y-%m-%d' > "$GAME_DIR/state/last_conv_date.txt"
 
 # Start new game, press enter to begin, save
