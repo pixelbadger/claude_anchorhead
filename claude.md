@@ -66,14 +66,31 @@ Archives the current save (if it exists) and starts fresh. The old save is prese
 
 ## Game Logs
 
-All gameplay is automatically logged to:
-- **Transcript**: `state/TRANSCRIPT.md` - Markdown-formatted log with timestamps
-- **Save File**: `state/anchorhead.sav.qzl` - Binary game state
+All gameplay is automatically logged to multiple files:
 
-The transcript includes:
-- Timestamp for each command
-- The command you issued
-- The game's full response
+### Game Transcript
+- **File**: `state/TRANSCRIPT.md`
+- **Format**: Markdown with timestamps
+- **Contents**: Just the game commands and responses
+
+### Conversation Log (Dynamic)
+- **File**: `CONVERSATION.md`
+- **Format**: Markdown with collapsible thinking blocks
+- **Contents**: Complete Claude Code session including:
+  - Your messages
+  - Claude's thinking process (in `<details>` blocks)
+  - Claude's responses and explanations
+  - All tool calls with parameters
+  - Timestamps for everything
+- **Updates**: Automatically appended after each `play.sh` command
+- **Day boundaries**: New date headers added when the day changes
+
+### Session Tracking
+- **File**: `state/last_conv_line.txt` - Tracks which conversation lines have been processed
+- **File**: `state/last_conv_date.txt` - Tracks current date for day boundaries
+- **Source**: `~/.claude/projects/-home-droid-anchorhead/*.jsonl` - Raw session data
+
+The conversation log preserves the full context and Claude's decision-making process, not just the game commands.
 
 ## Playing the Game
 
@@ -112,7 +129,14 @@ Type `help` in-game for more information.
 - `-q` - Quiet mode (no startup banners)
 - `-L` - Load save file directly
 
-The scripts handle all the save/load/quit sequences automatically so you can focus on playing the game.
+**Conversation logging mechanism:**
+- After each game command, `play.sh` checks for new entries in the Claude session JSONL
+- Only processes lines since the last update (delta processing)
+- Uses single-pass jq for efficient batch processing (not line-by-line loops)
+- Appends formatted conversation entries to `CONVERSATION.md`
+- Tracks position with `state/last_conv_line.txt`
+
+The scripts handle all the save/load/quit sequences and conversation syncing automatically so you can focus on playing the game.
 
 ## Troubleshooting
 
