@@ -80,8 +80,6 @@ if [ -f "$ACTIVE_SESSION" ]; then
                 echo ""
                 echo "---"
                 echo ""
-                echo "# $(date '+%A, %B %d, %Y')"
-                echo ""
             } >> "$CONVERSATION"
             echo "$CURRENT_DATE" > "$GAME_DIR/state/last_conv_date.txt"
         fi
@@ -91,26 +89,16 @@ if [ -f "$ACTIVE_SESSION" ]; then
         NEW_START=$((LAST_LINE + 1))
         tail -n +$NEW_START "$ACTIVE_SESSION" | jq -rs '
             . as $msgs |
-            reduce ($msgs[] | select(.type == "user" or .type == "assistant")) as $curr (
+            reduce ($msgs[] | select(.type == "assistant")) as $curr (
                 {output: [], prev_type: null};
 
-                # Determine if user message content is a string (real message) or array (tool_result)
-                if $curr.type == "user" and ($curr.message.content | type) == "string" then
-                    .output += [(if .prev_type != "user" then "\n## 🧑 User\n" else "" end) +
-                        "_" + ($curr.timestamp | sub("T"; " ") | sub("\\..*"; "")) + "_\n\n" +
-                        $curr.message.content + "\n"] |
-                    .prev_type = "user"
-
-                elif $curr.type == "assistant" then
-                    .output += [(if .prev_type != "assistant" then "\n## 🤖 Assistant\n" else "" end) +
-                        "_" + ($curr.timestamp | sub("T"; " ") | sub("\\..*"; "")) + "_\n\n" +
+                if $curr.type == "assistant" then
+                    .output += [(if .prev_type != "assistant" then "\n## 🤖 Assistant\n\n" else "" end) +
                         ([$curr.message.content[]? |
                             if .type == "thinking" then
                                 "<details><summary>💭 Thinking</summary>\n\n" + .thinking + "\n</details>\n"
                             elif .type == "text" then
                                 .text + "\n"
-                            elif .type == "tool_use" then
-                                "**🎮 Command:** `" + (.input.command // .name) + "`\n"
                             else empty
                             end
                         ] | join("\n")) + "\n"] |
@@ -126,12 +114,19 @@ if [ -f "$ACTIVE_SESSION" ]; then
     fi
 fi
 
+# Filter out save/quit prompts from game output
+CLEAN_OUTPUT=$(echo "$OUTPUT" | sed -e '/^>Please enter a filename/d' \
+    -e '/^Overwrite existing file?/d' \
+    -e '/^Ok\.$/d' \
+    -e '/^>$/d' \
+    -e '/^Are you sure you want to quit?/d')
+
 # Append game output to conversation log
 {
     echo "### 📖 Game Response"
     echo ""
     echo '```'
-    echo "$OUTPUT"
+    echo "$CLEAN_OUTPUT"
     echo '```'
     echo ""
 } >> "$CONVERSATION"

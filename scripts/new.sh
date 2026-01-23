@@ -36,7 +36,7 @@ fi
 
 # Create fresh CONVERSATION.md
 {
-    echo "# 🎮 New Game Started - $(date '+%A, %B %d, %Y at %H:%M:%S')"
+    echo "# 🎮 Anchorhead - Conversation Log"
     echo ""
 } > "$CONVERSATION"
 
@@ -59,14 +59,19 @@ OUTPUT=$(echo -e "\nlook\nsave\n$SAVE\nquit\ny" | dfrotz -m -p -q "$GAME" 2>&1)
     echo '```'
 } >> "$TRANSCRIPT"
 
+# Filter out save/quit prompts from game output
+CLEAN_OUTPUT=$(echo "$OUTPUT" | sed -e '/^>Please enter a filename/d' \
+    -e '/^Overwrite existing file?/d' \
+    -e '/^Ok\.$/d' \
+    -e '/^>$/d' \
+    -e '/^Are you sure you want to quit?/d')
+
 # Log to conversation
 {
     echo "### 🎮 New Game Started"
     echo ""
-    echo "_$(date '+%Y-%m-%d %H:%M:%S')_"
-    echo ""
     echo '```'
-    echo "$OUTPUT"
+    echo "$CLEAN_OUTPUT"
     echo '```'
     echo ""
 } >> "$CONVERSATION"
