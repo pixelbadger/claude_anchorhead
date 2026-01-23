@@ -22,7 +22,6 @@ This repository contains **Anchorhead** by Michael S. Gentry, a classic interact
 │   ├── TRANSCRIPT.md         # Game-only reference log
 │   └── *.txt                 # Session tracking files
 ├── CONVERSATION.md       # Primary log (committed to git)
-├── CONVERSATION.*.md     # Archived logs (committed to git)
 └── CLAUDE.md             # This guide
 ```
 
@@ -32,7 +31,7 @@ This repository contains **Anchorhead** by Michael S. Gentry, a classic interact
 - ✅ **Game file** (`anchor.z8`) - The Anchorhead game itself
 - ✅ **Scripts** (`scripts/*.sh`) - Helper scripts for playing
 - ✅ **Documentation** (`CLAUDE.md`, `README.md`) - Project documentation
-- ✅ **Conversation logs** (`CONVERSATION*.md`) - Complete gameplay narratives with Claude's thinking
+- ✅ **Conversation log** (`CONVERSATION.md`) - Complete gameplay narrative with Claude's thinking
 
 ### What's Ignored
 - ❌ **State folder** (`state/`) - Gitignored via `.gitignore`
