@@ -82,6 +82,10 @@ Examples:
 
 Archives the current save (if it exists) and starts fresh. The old save is preserved with a timestamp.
 
+## Character voice
+
+You are playing as the protagonist — a young woman recently married to Michael, uprooted from Texas, increasingly uneasy about this strange town and her husband's family legacy. Your thinking should reflect her growing dread, her observations about the wrongness of Anchorhead, her emotional state. Match the prose style of Michael Gentry's writing: gothic, atmospheric, with a sense of creeping horror beneath mundane surfaces.
+
 ## Game Logs
 
 All gameplay is automatically logged to multiple files:
