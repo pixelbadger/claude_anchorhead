@@ -2192,3 +2192,2262 @@ closed) and your umbrella.
 The pockets of your trenchcoat are empty.
 ```
 
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You close your umbrella, as is your habit after coming indoors.
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+The office door is open.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Peering through the murk, you can make out the blocky outlines of filing
+cabinets lining the walls and a doorway to the west. A window high up on the
+south wall lets in a very faint illumination.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+(in the filing cabinets)
+Strange; the file on the Verlac property has been cleaned out. Title, deed, all
+the papers, all of it gone. There is, however, a set of keys tucked down in the
+hanging folder. You quickly pocket them.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+The office door is open.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The rain is still coming down, so you open your umbrella.
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+The office door is open.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The obelisk measures about two feet square at its base, narrowing slightly as it
+rises a good fifteen feet to a bluntly pointed tip. An iron ring is embedded in
+the stone high up on one side, about two feet from the top. Dense, twisting
+hieroglyphs cover all four sides of the obelisk, although they are too worn to
+be read clearly.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The courthouse is closed for the day.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The gently winding lane makes its way through the birch woods south of town. New
+England foliage is famous for its splendid colors in the fall, but the
+oppressive weather and pervading murk have leached these trees of most of their
+tint. The road continues south into the increasingly dense forest, and in the
+other direction heads back to town. A paved walk also leads east through the
+trees.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The forest grows denser as you go, crowding thickly up to either side of the
+road. The groping, tangled branches block out what little sunlight there is
+left. Your footsteps are muffled; whispering leaves and the slow drip of water
+are the only sounds you can hear. Beyond the watching trees, the shadows are
+impenetrably thick. The road stretches interminably, north to south.
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You walk a bit farther down the road, but it doesn't seem to lead anywhere, and
+the shadows grow thicker the farther down you go. After a while you turn back,
+unable to suppress a shiver.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The gently winding lane makes its way through the birch woods south of town. New
+England foliage is famous for its splendid colors in the fall, but the
+oppressive weather and pervading murk have leached these trees of most of their
+tint. The road continues south into the increasingly dense forest, and in the
+other direction heads back to town. A paved walk also leads east through the
+trees.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, wrought-iron fence, its spike-tipped bars bent or leaning at crazy
+angles, surrounds the overgrown yard of this dark, abandoned church. A gap in
+the fence leads back west, while a bare path beaten through the groping weeds
+leads around the church to the southeast.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The hoary structure towers over your head, built of massive, ancient stones that
+are now black with age and nearly buried beneath an invading tide of ivy. The
+doors and windows are boarded shut. The steeple is a jagged silhouette against
+the brooding sky.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The path bends northeast, around the side of the church.
+
+
+The forest encroaches right up to the iron fence here, some of which is
+literally buried in the tangled underbrush. There are no doors on this side,
+although a wooden trap door over by the corner of the building probably leads
+into a cellar. A path leads southwest, around to the front of the church.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+It seems to be locked.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The path bends northwest, around the side of the church.
+
+
+A low, wrought-iron fence, its spike-tipped bars bent or leaning at crazy
+angles, surrounds the overgrown yard of this dark, abandoned church. A gap in
+the fence leads back west, while a bare path beaten through the groping weeds
+leads around the church to the southeast.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The gently winding lane makes its way through the birch woods south of town. New
+England foliage is famous for its splendid colors in the fall, but the
+oppressive weather and pervading murk have leached these trees of most of their
+tint. The road continues south into the increasingly dense forest, and in the
+other direction heads back to town. A paved walk also leads east through the
+trees.
+
+In the distance, you can hear the lonesome keening of a train whistle drifting
+on the wind.
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The rooftops above you lean so close together as to nearly block out the sky
+altogether, making this a particularly dark and unpleasant section of the city.
+The street leads away to the east, and a shadowy driveway leads through a high
+brick wall to the south.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The grim, white-washed edifice of Danvers Asylum bounds this tiny, shadowed
+courtyard to the south, its narrow, barred windows staring blankly down at you
+like ranks of shriveled, empty eye sockets. You can escape through a narrow
+gateway in the high, brick wall to the north.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The rooftops above you lean so close together as to nearly block out the sky
+altogether, making this a particularly dark and unpleasant section of the city.
+The street leads away to the east, and a shadowy driveway leads through a high
+brick wall to the south.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+This is a featureless blind alley, a dead end. Through the narrow and heavily
+shadowed opening to the northeast, you can see the square and the obelisk at its
+center.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+The office door is open.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The label is faded and mostly peeled away, but what little you can make out
+seems to indicate that this is not a particularly distinguished brand of
+spirits. The words "bootleg" and "rotgut" come to mind, probably because they
+are the only words legible on what's left of the label.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+It's dented and rusty, and you can barely make out the words "Skagen, Denmark"
+printed along the side. The lid is closed.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You open the old tin, revealing a smelly quantity of fish oil.
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+
+The clouds overhead mutter restlessly to themselves.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You close your umbrella, as is your habit after coming indoors.
+
+
+A dank, drafty old drinking hole lit by flickering, oil-burning lanterns. Smoke
+collects in greasy pools among the rafters, and shadows crowd thick around. The
+bar runs the length of the room to your right, while to the south a low doorway
+opens onto the street.
+
+Mill workers and fishermen occupy a few of the tables, drinking beer or puffing
+grimly at long-stemmed pipes. Each is wrapped in his solitude, soaking up the
+general miasma of dreary fatalism.
+
+The lantern sitting on the table nearest you sputters fitfully, throwing
+distorted shadows across the wall.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+(about the Verlac family)
+The locals studiously ignore you.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+A dark and dour expanse of wood, pitted and scarred and stained with the rings
+from over a hundred years' worth of slopping beer mugs.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+It's an old-fashioned hurricane lamp, with a tall glass chimney to protect it
+from the wind. The cotton wick burns fitfully in its reservoir of cheap oil.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+No one claims it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Not a bartender in sight.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The rain is still coming down, so you open your umbrella.
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The gate swings open noisily on its rusty hinges.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You pass through the gate and down the stone steps, which curve northwest as
+they lead down to the edge of the river.
+
+
+The ponderous stones of Whateley Bridge arch overhead, casting this little
+concrete ledge into deep shadow. At your feet, the dark waters lap quietly
+against the stones with a hollow, subterranean sound. Stone steps to the
+southeast lead back up to street level.
+
+A small metal door, blotchy with rust, is set into the south bank of the river,
+underneath the bridge.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+It seems to be locked.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+It's just an ordinary-looking small metal door.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Before you can take more than a few steps, the mist coils its tendrils around
+you, freezing your marrow with its damp embrace. For one terrifying moment you
+can feel it probing at your mouth and nostrils, seeking a way in, and then with
+a sudden wrench you are free, gasping and choking and eyeing the mist with
+newfound wariness.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+The office door is open.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You close your umbrella, as is your habit after coming indoors.
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+The office door is open.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+That isn't even a key.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You are wearing your wedding ring, your trenchcoat and your clothes; in
+addition, you have in your hands a keyring, on which are Warning: @get_prop
+called with object 0 (PC = 16120) (will ignore further occurrences)
+two keys (a key to the house and a key to the cellar), a flask (which is
+closed), an old tin (which is open), inside which is a smelly quantity of fish
+oil and your umbrella.
+
+The pockets of your trenchcoat are empty.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+That doesn't seem to fit the lock.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+That doesn't seem to fit the lock.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The rain is still coming down, so you open your umbrella.
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+The office door is open.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+In the distance, you can hear the lonesome keening of a train whistle drifting
+on the wind.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+
+The clouds overhead mutter restlessly to themselves.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The gently winding lane makes its way through the birch woods south of town. New
+England foliage is famous for its splendid colors in the fall, but the
+oppressive weather and pervading murk have leached these trees of most of their
+tint. The road continues south into the increasingly dense forest, and in the
+other direction heads back to town. A paved walk also leads east through the
+trees.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, wrought-iron fence, its spike-tipped bars bent or leaning at crazy
+angles, surrounds the overgrown yard of this dark, abandoned church. A gap in
+the fence leads back west, while a bare path beaten through the groping weeds
+leads around the church to the southeast.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The path bends northeast, around the side of the church.
+
+
+The forest encroaches right up to the iron fence here, some of which is
+literally buried in the tangled underbrush. There are no doors on this side,
+although a wooden trap door over by the corner of the building probably leads
+into a cellar. A path leads southwest, around to the front of the church.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+It's not the cellar door that needs unlocking, so much as the enormous padlock
+holding it shut.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Even if you had the right key, the padlock is rusted solid.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+(first getting some fish oil)
+You dip your finger in and come up with a small glob of pungent fish oil.
+
+You rub the fish oil onto the rusty padlock.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Even if you had the right key, the padlock is rusted solid.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The path bends northwest, around the side of the church.
+
+
+A low, wrought-iron fence, its spike-tipped bars bent or leaning at crazy
+angles, surrounds the overgrown yard of this dark, abandoned church. A gap in
+the fence leads back west, while a bare path beaten through the groping weeds
+leads around the church to the southeast.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+The gently winding lane makes its way through the birch woods south of town. New
+England foliage is famous for its splendid colors in the fall, but the
+oppressive weather and pervading murk have leached these trees of most of their
+tint. The road continues south into the increasingly dense forest, and in the
+other direction heads back to town. A paved walk also leads east through the
+trees.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+The rain slackens off momentarily to a weak drizzle, then returns afresh in a
+brief, freezing downpour.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+The office door is open.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You close your umbrella, as is your habit after coming indoors.
+
+
+Pallid gray light trickles in through the drawn blinds. The office is deserted,
+papers still scattered across the top of the desk. The front door lies west, and
+the file room lies east.
+
+The office door is open.
+
+Sitting on the corner of the paper-strewn desk are a telephone and an answering
+machine.
+
+Someone seems to have left a cup of coffee sitting out, half-finished and cold.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+That's not a verb I recognise.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You start to dial out, but you can't get anything but a busy signal no matter
+how much you jiggle the receiver. Frustrated, you hang up.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The rain is still coming down, so you open your umbrella.
+
+
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+The office door is open.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+```
+
+### 📖 Game Response
+
+```
+
+
+>Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+Time passes.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+Time passes.
+Time passes.
+
+
+
+In the distance, you can hear the lonesome keening of a train whistle drifting
+on the wind.
+Time passes.
+Time passes.
+
+The rain slackens off momentarily to a weak drizzle, then returns afresh in a
+brief, freezing downpour.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+
+Isolated and serene within its high, ivy-covered walls, Miskaton University
+represents this benighted town's single, if somewhat dubious, claim to cultural
+achievement. Founded some time in the early 1800s, the school's reputation and
+enrollment have diminished somewhat as Anchorhead drifts further and further
+into the abyss of provincial backwaterism. Still, it is generally recognized for
+its collection of folklore and esoteric mythology (one of the oldest and most
+extensive on the east coast). The Board of Deans was also kind enough to offer
+Michael a full professorship upon hearing of his recently discovered heritage
+and his plans to move into the estate. Ivory tower, perhaps, but at least they
+take care of their own.
+
+There are numerous buildings surrounding this cobbled court, but the only one
+you are interested in is the library to the west, where Michael told you he'd be
+until he came back to the real estate agent's office to pick you up. Which,
+incidentally, he has not yet done.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You close your umbrella, as is your habit after coming indoors.
+
+
+Shadows roost thickly in the vaulted ceiling, and small, green-shaded desk lamps
+cast pools of warm radiance here and there around the library's dim interior.
+You pause a moment to let the hushed peacefulness of this place soak in -- a
+welcome relief from the unsettling events of the day. An exit lies east, and a
+small alcove to the north houses the circulation counter.
+
+Peering through the shadows, you spot your husband sitting at one of the reading
+desks, absorbed in some sort of weighty tome and clearly oblivious to the time.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+(about the Verlac family)
+Michael looks up, startled, then realizes it's you and smiles. "Hi, hon," he
+says, closing the book and stretching. Then he glances at his watch. "Good
+grief, what happened to the time? I'm so sorry -- I just lost track." He smiles
+sheepishly.
+
+"Well?" he asks. "Did you get the keys?"
+```
+
+### 📖 Game Response
+
+```
+
+
+
+"Great! Let's see 'em."
+```
+
+### 📖 Game Response
+
+```
+
+
+
+"Great!" says Michael. "You hang on to that. Just a second, I'll put this back."
+He takes the book up to the circulation desk and hands it to the librarian.
+"Okay then," he says, returning, "let's go."
+
+Michael suddenly smacks his forehead. "Oh, crap, I forgot to tell you. The car
+broke down." He spreads his hands. "I don't know what happened to it; one second
+I'm parking outside, the next second it dies and I can't get it started again. I
+called a tow truck, but the nearest garage is up in Arkham. They picked it up
+but won't be able to look at it until next week at the earliest. Anyway, it
+looks like we'll have to walk back to the house." He offers you a lame smile.
+"You can hold the umbrella."
+```
+
+### 📖 Game Response
+
+```
+
+
+
+You can't see any such thing.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+"Er, that's just the circulation desk," Michael says, placing his hand on your
+arm. "The exit is that way." He points east.
+```
+
+### 📖 Game Response
+
+```
+
+
+
+The desks are small but comfortable.
+```
+
+
+---
+
+
+### 📖 Game Response
+
+```
+
+
+
+Tall and a bit on the skinny side, in an endearingly awkward sort of way; a
+serious, thoughtful face topped with an unruly tangle of brown hair; deep brown
+eyes framed by wire-rimmed glasses -- yep, that's the man you married, all
+right.
+
+Michael looks at you expectantly, waiting for you to lead the way.
+```
+
+
+## 🤖 Assistant
+
+
+**Inner monologue:** There he is—tall, awkward, wire-rimmed glasses, that tangle of brown hair. The man I married five months ago, looking at me expectantly like I'm the one who knows where we're going. I don't. But I have the keys, and the rain is waiting, and somewhere in this town is a house that belongs to us now. Let's go find it.
+
+
+### 📖 Game Response
+
+```
+
+
+
+The rain is still coming down, so you open your umbrella.
+
+
+Isolated and serene within its high, ivy-covered walls, Miskaton University
+represents this benighted town's single, if somewhat dubious, claim to cultural
+achievement. Founded some time in the early 1800s, the school's reputation and
+enrollment have diminished somewhat as Anchorhead drifts further and further
+into the abyss of provincial backwaterism. Still, it is generally recognized for
+its collection of folklore and esoteric mythology (one of the oldest and most
+extensive on the east coast). The Board of Deans was also kind enough to offer
+Michael a full professorship upon hearing of his recently discovered heritage
+and his plans to move into the estate. Ivory tower, perhaps, but at least they
+take care of their own.
+
+There are numerous buildings surrounding this cobbled court, but the only one
+you are interested in is the library to the west.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+Michael's following me. Now I need to find the way to the Verlac house. Let me head south from town.
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+Michael strolls along after you.
+
+The rain slackens off momentarily to a weak drizzle, then returns afresh in a
+brief, freezing downpour.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+"Actually," says Michael, "I think the house is in the other direction."
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+<details><summary>💭 Thinking</summary>
+
+Ah, Michael says the house is in the other direction. So maybe it's not south through the birch woods. Maybe I need to take the country lane north that I saw from the junction near the university. Let me try that.
+</details>
+
+Not this way. Michael says it's in the other direction. Let me try that country lane to the north that I saw near the university.
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+
+The country lane to the north, heading over a grassy heath—that must be the way to the house.
+
+
+### 📖 Game Response
+
+```
+
+
+
+"Actually," says Michael, "I think the house is in the other direction."
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+```
+
+
+## 🤖 Assistant
+
+
+<details><summary>💭 Thinking</summary>
+
+Not north either. Michael says "the other direction" again. So he's guiding me. Maybe the house is further west, or maybe it's northwest up the twisting lane (past the brick wall). Let me try going northwest up the twisting lane from the narrow street - maybe with Michael present, we can get past the brick wall.
+</details>
+
+Not that way either. Let me try the northwest twisting lane—maybe with Michael, the brick wall isn't a dead end anymore.
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+Michael follows you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+The lane narrows here to little more than a badly cobbled sidewalk as it wends
+its way up through a series of tortuous bends and switchbacks. In some places,
+the street is so steep that steps have been cut into it, worn down over the
+years and slick with moss. Your progress is blocked at the top of the street by
+a blank brick wall.
+
+Michael follows you.
+```
+
+
+## 🤖 Assistant
+
+
+<details><summary>💭 Thinking</summary>
+
+Same dead end. Let me try other directions from here with Michael.
+</details>
+
+Still a dead end. Let me try a different approach—maybe the southwest direction or going through town differently.
+
+
+### 📖 Game Response
+
+```
+
+
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+Michael makes a weak attempt to whistle.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+Michael hurries to catch up.
+
+"We really should be getting on to the house, don't you think?" asks Michael.
+"It's a bit rainy out."
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+<details><summary>💭 Thinking</summary>
+
+Michael is getting impatient. "We really should be getting on to the house." Let me think about where the house could be. In the walkthrough I found earlier, it says after finding Michael, "go south, east, southeast, south twice; Michael will stroll along you." But when I tried going south from the misty avenue, Michael said "the other direction." 
+
+Wait, maybe I need to re-read that walkthrough more carefully. It said: "go south, east, southeast, south twice." Maybe the directions are from a different starting point or version. Let me try going southeast from some location, or maybe the walkthrough means from the university area go south, east, etc.
+ 
+Actually, I'm realizing the walkthrough has two separate paths: getting to the university from the cul-de-sac (west, west, northwest, west), and then from the university to the house (south, east, southeast, south twice). The issue is that southeast doesn't seem to be a valid exit from the narrow lane area where I'd end up after going south and east from the university courtyard. Maybe the southeast direction is actually from the town square, or perhaps I'm misunderstanding the sequence of moves.
+
+Let me explore other possibilities - maybe I can go east from the cul-de-sac through the office and find an alternate route, or try the southwest dirt road from misty avenue again, this time with Michael to see if we can get past the mist that attacked me before.
+</details>
+
+Let me try the southwest road through the mist—maybe with Michael, we can get through.
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+
+Michael follows you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+You hesitate at the edge of the mist, but Michael has already started up the
+road. Without a word, he walks through the insubstantial vapors, which part
+before him almost deferentially before dissolving away into nothing.
+
+The ground begins to rise sharply as the road climbs up into the hills south of
+town.
+
+
+The treeline falls away on the north side of this northwest-northeast bend in
+the road, giving way to a panoramic view of the Miskaton River Valley and the
+grubby little town of Anchorhead nestled within it. From here you can see the
+paper mill almost directly to the north; the solitary lighthouse and surrounding
+ocean to the northeast; and the dilapidated stone church below you to the east.
+Winding through it all is the oily black ribbon of the Miskaton, and almost
+directly in the center lies the little clearing of Town Square. You can just
+make out the shape of the obelisk from here.
+
+Michael is here waiting for you.
+```
+
+
+## 🤖 Assistant
+
+
+**Inner monologue:** The mist *parted* for him. I watched it happen—those same tendrils that tried to force their way inside me recoiled from Michael like a dog backing away from its master. He walked through it as if it were nothing, barely noticing. What does that mean? Is it the Verlac blood in him that commands this unnatural fog? From up here I can see the whole town spread below—the mill, the lighthouse, the obelisk, the black river threading through it all. Anchorhead looks small and helpless from this height, but I know better.
+
+
+### 📖 Game Response
+
+```
+
+
+
+The hillside rises too steeply in that direction.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+Michael hurries to catch up.
+```
+
+
+## 🤖 Assistant
+
+
+<details><summary>💭 Thinking</summary>
+
+That went back to the misty avenue. The road has a northwest-northeast bend. So from there I should try northwest or southwest along the road. Let me go back and try northwest.
+</details>
+
+
+### 📖 Game Response
+
+```
+
+
+
+The ground begins to rise sharply as the road climbs up into the hills south of
+town.
+
+
+The treeline falls away on the north side of this northwest-northeast bend in
+the road, giving way to a panoramic view of the Miskaton River Valley and the
+grubby little town of Anchorhead nestled within it. From here you can see the
+paper mill almost directly to the north; the solitary lighthouse and surrounding
+ocean to the northeast; and the dilapidated stone church below you to the east.
+Winding through it all is the oily black ribbon of the Miskaton, and almost
+directly in the center lies the little clearing of Town Square. You can just
+make out the shape of the obelisk from here.
+
+Michael strolls along after you.
+```
+
+
+## 🤖 Assistant
+
+
+
+### 📖 Game Response
+
+```
+
+
+
+
+The lane runs up from the southeast and ends at a wide clearing surrounded by
+gnarled and ancient trees. A wide, curving driveway runs up to the front door of
+your house, which lies north.
+
+The fabled Verlac family mansion looms before you in the gloom, its dark
+creaking presence dominating the clearing and, somehow, even though it is not
+visible through the trees, the entire valley. The foreboding shadow of the
+Verlacs seems to enshroud all of Anchorhead from here.
+
+A typewritten notice has been attached to the front door.
+
+Michael strolls along after you.
+
+"Well," says Michael, "this must be the place. We finally made it, honey. We're
+home!"
+```
+
