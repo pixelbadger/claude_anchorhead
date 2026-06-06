@@ -859,3 +859,1267 @@ You needn't worry about that.
 *[Session paused — currently at Dark Corner]*
 
 **Inventory**: wedding ring, trenchcoat, clothes, umbrella (open), house keys, flask (rotgut), tin of fish oil (Skagen, Denmark)
+### 📖 Game Response
+
+```
+ Dark Corner                                         day one
+
+> Asylum Courtyard                                    day one
+
+Asylum Courtyard
+The grim, white-washed edifice of Danvers Asylum bounds this tiny, shadowed
+courtyard to the south, its narrow, barred windows staring blankly down at you
+like ranks of shriveled, empty eye sockets. You can escape through a narrow
+gateway in the high, brick wall to the north.
+
+
+
+> Asylum Courtyard                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Asylum Courtyard                                    day one
+
+> Asylum Courtyard                                    day one
+
+The whole place exudes a sense of oppressive claustrophobia -- standing in its
+shadow for even a second is enough to make your skin crawl. Even the seemingly
+innocuous motto emblazoned over the main entrance fills you with an inexplicable
+sense of foreboding.
+
+
+
+> Asylum Courtyard                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Asylum Courtyard                                    day one
+
+> Asylum Courtyard                                    day one
+
+"Health, Discipline, Tranquillity" -- emblazoned in an arch over the double-
+snake symbol of a caduceus. Somehow, you are not reassured.
+
+
+
+> Asylum Courtyard                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Asylum Courtyard                                    day one
+
+> Asylum Courtyard                                    day one
+
+The whole place exudes a sense of oppressive claustrophobia -- standing in its
+shadow for even a second is enough to make your skin crawl. Even the seemingly
+innocuous motto emblazoned over the main entrance fills you with an inexplicable
+sense of foreboding.
+
+
+
+> Asylum Courtyard                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Asylum Courtyard                                    day one
+
+> Dark Corner                                         day one
+
+Dark Corner
+The rooftops above you lean so close together as to nearly block out the sky
+altogether, making this a particularly dark and unpleasant section of the city.
+The street leads away to the east, and a shadowy driveway leads through a high
+brick wall to the south.
+
+
+
+> Dark Corner                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Dark Corner                                         day one
+
+> Town Square                                         day one
+
+Town Square
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+
+
+> Town Square                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Town Square                                         day one
+
+> Side Alley                                          day one
+
+Side Alley
+This is a featureless blind alley, a dead end. Through the narrow and heavily
+shadowed opening to the northeast, you can see the square and the obelisk at its
+center.
+
+
+
+> Side Alley                                          day one
+```
+
+### 📖 Game Response
+
+```
+ Side Alley                                          day one
+
+> Town Square                                         day one
+
+Town Square
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+
+
+> Town Square                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Town Square                                         day one
+
+> Town Square                                         day one
+
+The courthouse is closed for the day.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+
+
+
+> Town Square                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Town Square                                         day one
+
+> Whateley Bridge                                     day one
+
+Whateley Bridge
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+
+
+> Whateley Bridge                                     day one
+```
+
+### 📖 Game Response
+
+```
+ Whateley Bridge                                     day one
+
+> Narrow Street                                       day one
+
+Narrow Street
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+
+
+> Narrow Street                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Narrow Street                                       day one
+
+> Twisting Lane                                       day one
+
+Twisting Lane
+The lane narrows here to little more than a badly cobbled sidewalk as it wends
+its way up through a series of tortuous bends and switchbacks. In some places,
+the street is so steep that steps have been cut into it, worn down over the
+years and slick with moss. Your progress is blocked at the top of the street by
+a blank brick wall.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+It's just an ordinary-looking brick wall.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You can't get much lower than the ground.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+The wall blocks your way in that direction.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+The clouds overhead mutter restlessly to themselves.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+In that direction there is only the sky.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+Twisting Lane
+The lane narrows here to little more than a badly cobbled sidewalk as it wends
+its way up through a series of tortuous bends and switchbacks. In some places,
+the street is so steep that steps have been cut into it, worn down over the
+years and slick with moss. Your progress is blocked at the top of the street by
+a blank brick wall.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+But you aren't in anything at the moment.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You can't see any such thing.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Twisting Lane                                       day one
+
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+
+
+> Twisting Lane                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Twisting Lane                                       day one
+
+> Narrow Street                                       day one
+
+Narrow Street
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+
+
+> Narrow Street                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Narrow Street                                       day one
+
+> Outside the Real Estate Office                      day one
+
+Outside the Real Estate Office
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead. Like most of the streets in this city, it is ancient, shadowy, and
+leads essentially nowhere. The lane ends here at the real estate agent's office,
+which lies to the east, and winds its way back toward the center of town to the
+west. A narrow, garbage-choked alley opens to the southeast.
+
+
+
+> Outside the Real Estate Office                      day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the Real Estate Office                      day one
+
+> Outside the Real Estate Office                      day one
+
+Time passes.
+
+
+
+> Outside the Real Estate Office                      day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the Real Estate Office                      day one
+
+> Outside the Real Estate Office                      day one
+
+Time passes.
+
+
+
+> Outside the Real Estate Office                      day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the Real Estate Office                      day one
+
+> Outside the Real Estate Office                      day one
+
+Time passes.
+
+
+
+> Outside the Real Estate Office                      day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the Real Estate Office                      day one
+
+> Narrow Street                                       day one
+
+Narrow Street
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+
+
+> Narrow Street                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Narrow Street                                       day one
+
+> Junction                                            day one
+
+Junction
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+
+In the distance, you can hear the lonesome keening of a train whistle drifting
+on the wind.
+
+
+
+> Junction                                            day one
+```
+
+### 📖 Game Response
+
+```
+ Junction                                            day one
+
+> University Court                                    day one
+
+University Court
+Isolated and serene within its high, ivy-covered walls, Miskaton University
+represents this benighted town's single, if somewhat dubious, claim to cultural
+achievement. Founded some time in the early 1800s, the school's reputation and
+enrollment have diminished somewhat as Anchorhead drifts further and further
+into the abyss of provincial backwaterism. Still, it is generally recognized for
+its collection of folklore and esoteric mythology (one of the oldest and most
+extensive on the east coast). The Board of Deans was also kind enough to offer
+Michael a full professorship upon hearing of his recently discovered heritage
+and his plans to move into the estate. Ivory tower, perhaps, but at least they
+take care of their own.
+
+There are numerous buildings surrounding this cobbled court, but the only one
+you are interested in is the library to the west, where Michael told you he'd be
+until he came back to the real estate agent's office to pick you up. Which,
+incidentally, he has not yet done.
+
+
+
+> University Court                                    day one
+```
+
+### 📖 Game Response
+
+```
+ University Court                                    day one
+
+> Library                                             day one
+
+You close your umbrella, as is your habit after coming indoors.
+
+Library
+Shadows roost thickly in the vaulted ceiling, and small, green-shaded desk lamps
+cast pools of warm radiance here and there around the library's dim interior.
+You pause a moment to let the hushed peacefulness of this place soak in -- a
+welcome relief from the unsettling events of the day. An exit lies east, and a
+small alcove to the north houses the circulation counter.
+
+Peering through the shadows, you spot your husband sitting at one of the reading
+desks, absorbed in some sort of weighty tome and clearly oblivious to the time.
+
+
+
+> Library                                             day one
+```
+
+### 📖 Game Response
+
+```
+ Library                                             day one
+
+> Library                                             day one
+
+Tall and a bit on the skinny side, in an endearingly awkward sort of way; a
+serious, thoughtful face topped with an unruly tangle of brown hair; deep brown
+eyes framed by wire-rimmed glasses -- yep, that's the man you married, all
+right.
+
+At the moment, Michael is largely absorbed in his reading, and is paying little
+attention to you.
+
+Michael turns to a new page in the book and begins reading intently.
+
+
+
+> Library                                             day one
+```
+
+### 📖 Game Response
+
+```
+ Library                                             day one
+
+> Library                                             day one
+
+(about the Verlac family)
+Michael looks up, startled, then realizes it's you and smiles. "Hi, hon," he
+says, closing the book and stretching. Then he glances at his watch. "Good
+grief, what happened to the time? I'm so sorry -- I just lost track." He smiles
+sheepishly.
+
+"Well?" he asks. "Did you get the keys?"
+
+
+
+> Library                                             day one
+```
+
+### 📖 Game Response
+
+```
+ Library                                             day one
+
+> Library                                             day one
+
+Michael jerks the book away from you. "Excuse me," he says, a bit more sharply
+than you had expected, "I'll be done with it in a minute."
+
+
+
+> Library                                             day one
+```
+
+### 📖 Game Response
+
+```
+ Library                                             day one
+
+> Circulation Desk                                    day one
+
+Circulation Desk
+A high counter divides the public portion of the library from the reserved
+stacks -- all the more esoteric and mysterious volumes from the university's
+collection. If anything, the area behind the counter is even more shadowy than
+the side you're on. The main reading area lies south.
+
+Hanging on the wall next to the counter is a small, printed sign. Beneath the
+sign sits a heavy, dog-eared register, and sitting next to the register is a
+bell.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+"All restricted books must be signed for on the register, and may not be removed
+from this building. Please have your faculty ID ready when you make your
+request."
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+It's basically a log, recording what book was checked out, who checked it out,
+and when. There must be hundreds of names here.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+Ding.
+
+A moment later, the gaunt and fishy-eyed librarian emerges silently from the
+shadows behind the counter.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+Her slack, pallid skin looks as if it has seen little more than the inside of a
+cave for most of her life. She stares at you silently with disturbingly large
+and watery eyes.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+(about the Verlac family)
+The librarian just looks at you.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+You can't think of anything to say about that for the moment.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Circulation Desk                                    day one
+
+You see nothing of interest behind the counter.
+
+
+
+> Circulation Desk                                    day one
+```
+
+### 📖 Game Response
+
+```
+ Circulation Desk                                    day one
+
+> Library                                             day one
+
+Without a word, the librarian fades back into the shadows.
+
+Library
+Shadows roost thickly in the vaulted ceiling, and small, green-shaded desk lamps
+cast pools of warm radiance here and there around the library's dim interior.
+You pause a moment to let the hushed peacefulness of this place soak in -- a
+welcome relief from the unsettling events of the day. An exit lies east, and a
+small alcove to the north houses the circulation counter.
+
+Peering through the shadows, you spot your husband sitting at one of the reading
+desks, absorbed in some sort of weighty tome and clearly oblivious to the time.
+
+
+
+> Library                                             day one
+```
+
+### 📖 Game Response
+
+```
+ Library                                             day one
+
+> Library                                             day one
+
+"Great!" says Michael. "You hang on to that. Just a second, I'll put this back."
+He takes the book up to the circulation desk and hands it to the librarian.
+"Okay then," he says, returning, "let's go."
+
+Michael suddenly smacks his forehead. "Oh, crap, I forgot to tell you. The car
+broke down." He spreads his hands. "I don't know what happened to it; one second
+I'm parking outside, the next second it dies and I can't get it started again. I
+called a tow truck, but the nearest garage is up in Arkham. They picked it up
+but won't be able to look at it until next week at the earliest. Anyway, it
+looks like we'll have to walk back to the house." He offers you a lame smile.
+"You can hold the umbrella."
+
+Your score has just gone up by two points.
+
+
+
+> Library                                             day one
+```
+
+### 📖 Game Response
+
+```
+ Library                                             day one
+
+> University Court                                    day one
+
+The rain is still coming down, so you open your umbrella.
+
+University Court
+Isolated and serene within its high, ivy-covered walls, Miskaton University
+represents this benighted town's single, if somewhat dubious, claim to cultural
+achievement. Founded some time in the early 1800s, the school's reputation and
+enrollment have diminished somewhat as Anchorhead drifts further and further
+into the abyss of provincial backwaterism. Still, it is generally recognized for
+its collection of folklore and esoteric mythology (one of the oldest and most
+extensive on the east coast). The Board of Deans was also kind enough to offer
+Michael a full professorship upon hearing of his recently discovered heritage
+and his plans to move into the estate. Ivory tower, perhaps, but at least they
+take care of their own.
+
+There are numerous buildings surrounding this cobbled court, but the only one
+you are interested in is the library to the west.
+
+Michael hurries to catch up.
+
+
+
+> University Court                                    day one
+```
+
+### 📖 Game Response
+
+```
+ University Court                                    day one
+
+> Junction                                            day one
+
+Junction
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+
+Michael hurries to catch up.
+
+
+
+> Junction                                            day one
+```
+
+### 📖 Game Response
+
+```
+ Junction                                            day one
+
+> Junction                                            day one
+
+"Actually," says Michael, "I think the house is in the other direction."
+
+
+
+> Junction                                            day one
+```
+
+### 📖 Game Response
+
+```
+ Junction                                            day one
+
+> Narrow Street                                       day one
+
+Narrow Street
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+
+Michael hurries to catch up.
+
+
+
+> Narrow Street                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Narrow Street                                       day one
+
+> Whateley Bridge                                     day one
+
+Whateley Bridge
+A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is
+possibly older than any other structure in the entire city. Ponderously it spans
+the dark, torpid waters of the Miskaton River, connecting the north and south
+halves of the city and occasionally raining bits of gravel and mortar from its
+underside into the water. It looks just wide enough for two cars to pass each
+other between the flanking stone parapets, but you wouldn't volunteer to try it.
+
+Michael strolls along after you.
+
+"I apologized about the car, right?" says Michael sheepishly.
+
+
+
+> Whateley Bridge                                     day one
+```
+
+### 📖 Game Response
+
+```
+ Whateley Bridge                                     day one
+
+> Town Square                                         day one
+
+Town Square
+A wide expanse of uneven pavestones lies open to the sky, bordered on all sides
+by the leaning, steep-roofed architecture that looms over everything in this
+city. The municipal courthouse stands at the south end of the square, next to
+the mouth of a dark, narrow alley to the southwest. Avenues to the west and east
+lead back into the cramped and ingrown streets, while to the north lies Whateley
+Bridge.
+
+In the center of the square, rising from a circular lawn of unhealthy-looking
+grass and weeds, stands a strange, stone obelisk. It seems to be a monument of
+some sort, although you can see no plaque or marker anywhere near it.
+
+Michael strolls along after you.
+
+
+
+> Town Square                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Town Square                                         day one
+
+> Riverwalk                                           day one
+
+Riverwalk
+A low, irregular brick wall to the north divides this street from the steep,
+mud-slick banks of the sinuous Miskaton, while a rusty iron gate provides access
+to a precarious flight of stone steps leading down the bank to the water's edge.
+The street bends south here, turning into a misty avenue between the trees. The
+town square lies west, a vacant lot lies east.
+
+Michael strolls along after you.
+
+Overhead, the swollen clouds flicker ominously with a greenish haze of sheet
+lightning.
+
+
+
+> Riverwalk                                           day one
+```
+
+### 📖 Game Response
+
+```
+ Riverwalk                                           day one
+
+> Chilly Avenue                                       day one
+
+Chilly Avenue
+Perhaps it is merely the effect of some unwholesome vapour rising from the murky
+waters of the nearby Miskaton, but the temperature along this street seems
+perceptibly cooler than normal, even for a New England autumn. Two dirt roads
+lead south and southwest, into the dense woods at the edge of town.
+
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+
+Michael follows you.
+
+
+
+> Chilly Avenue                                       day one
+```
+
+### 📖 Game Response
+
+```
+ Chilly Avenue                                       day one
+
+> Scenic View                                         day one
+
+As you walk through, the mists part before your husband almost deferentially,
+quickly dissolving away into nothing.
+
+The ground begins to rise sharply as the road climbs up into the hills south of
+town.
+
+Scenic View
+The treeline falls away on the north side of this northwest-northeast bend in
+the road, giving way to a panoramic view of the Miskaton River Valley and the
+grubby little town of Anchorhead nestled within it. From here you can see the
+paper mill almost directly to the north; the solitary lighthouse and surrounding
+ocean to the northeast; and the dilapidated stone church below you to the east.
+Winding through it all is the oily black ribbon of the Miskaton, and almost
+directly in the center lies the little clearing of Town Square. You can just
+make out the shape of the obelisk from here.
+
+Michael strolls along after you.
+
+
+
+> Scenic View                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Scenic View                                         day one
+
+> Scenic View                                         day one
+
+The hillside rises too steeply in that direction.
+
+
+
+> Scenic View                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Scenic View                                         day one
+
+> Scenic View                                         day one
+
+The hillside rises too steeply in that direction.
+
+
+
+> Scenic View                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Scenic View                                         day one
+
+> Scenic View                                         day one
+
+The hillside rises too steeply in that direction.
+
+
+
+> Scenic View                                         day one
+```
+
+### 📖 Game Response
+
+```
+ Scenic View                                         day one
+
+> Outside the House                                   day one
+
+Outside the House
+The lane runs up from the southeast and ends at a wide clearing surrounded by
+gnarled and ancient trees. A wide, curving driveway runs up to the front door of
+your house, which lies north.
+
+The fabled Verlac family mansion looms before you in the gloom, its dark
+creaking presence dominating the clearing and, somehow, even though it is not
+visible through the trees, the entire valley. The foreboding shadow of the
+Verlacs seems to enshroud all of Anchorhead from here.
+
+A typewritten notice has been attached to the front door.
+
+Michael follows you.
+
+"Well," says Michael, "this must be the place. We finally made it, honey. We're
+home!"
+
+
+
+> Outside the House                                   day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the House                                   day one
+
+> Outside the House                                   day one
+
+It's a letter from the Arkham Regional Utilities Company, explaining that, due
+to wiring difficulties, the electricity will not be installed until next week.
+No phone service, either.
+
+"Well, that's wonderful news," remarks Michael dryly, reading over your
+shoulder.
+
+
+
+> Outside the House                                   day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the House                                   day one
+
+> Outside the House                                   day one
+
+(the Verlac mansion)
+The house comprises two stories and an attic, and a smaller domed cupola atop
+the roof. Its windows are unlit and tightly shuttered, its roof steep and
+precipitous, and its grounds unkempt and strewn with weeds. The place
+unmistakably radiates an aura of thick, cold malevolence.
+
+
+
+> Outside the House                                   day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the House                                   day one
+
+> Outside the House                                   day one
+
+You unlock the front door.
+
+
+
+> Outside the House                                   day one
+```
+
+### 📖 Game Response
+
+```
+ Outside the House                                   day one
+
+>(opening the front door first)
+You close your umbrella, as is your habit after coming indoors.
+
+Foyer
+Although it appears spacious from the outside, the house's interior feels
+cramped and gloomy. The walls seem too close together; the ceiling is too high.
+The doorways, leading in several directions, are narrow and filled with shadows,
+and the stairs leading up to the second floor are steep and rickety. This is not
+a house that makes you feel welcome. It is a house that makes you feel tiny and
+timid, and afraid of dark places. It is a house that makes you feel alone.
+
+The front door stands open to the south.
+
+Carelessly stacked in a towering heap in the middle of the room are all your
+luggage and belongings, which you had sent ahead through a moving company before
+driving up to Massachusetts. Everything you own is boxed away and piled up in
+the middle of the floor. The reality of this move finally slams home as you
+stare at the sprawling jumble of stuff, and suddenly you feel very lost and
+adrift.
+
+Night has now undeniably fallen, and the house is very, very dark. There is
+
+ Foyer                                               day one, evening
+
+probably just enough residual ambience to feel your way upstairs to the bedroom,
+but the rest of the house is a tenebrous maze of shadows, and any exploring
+would probably best be done in the morning.
+
+Michael follows you.
+
+Michael stretches his arms and yawns. "Well," he says, "I think I'm going to
+turn in. There'll be plenty of time to unpack and explore tomorrow. Good night,
+hon." He kisses you on the cheek. "Don't stay up too late."
+
+And with that, he goes upstairs.
+
+
+
+> Foyer                                               day one, evening
+```
+
