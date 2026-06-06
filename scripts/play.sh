@@ -12,7 +12,7 @@ SAVE="$GAME_DIR/state/anchorhead.sav.qzl"
 TRANSCRIPT="$GAME_DIR/state/TRANSCRIPT.md"
 CONVERSATION="$GAME_DIR/CONVERSATION.md"
 LAST_LINE_FILE="$GAME_DIR/state/last_conv_line.txt"
-SESSION_JSONL="$HOME/.claude/projects/-home-droid-anchorhead"
+SESSION_JSONL="$HOME/.claude/projects/-home-droid-repos-claude-anchorhead"
 
 CMD="$1"
 
