@@ -1491,3 +1491,215 @@ definite plus. The bedroom lies east.
 It looks deep enough to swim in. You could spend hours soaking in that thing.
 ```
 
+### `> look`
+
+```
+Bathroom
+A small chamber of cold, white tile and floral-print wallpaper. It sports a
+genuine, whitewashed, claw-foot bathtub with a shower attachment, which is a
+definite plus. The bedroom lies east.
+```
+
+### `> examine shower`
+
+```
+It's just an ordinary-looking shower attachment.
+```
+
+### `> go east`
+
+```
+Master Bedroom
+The master bedroom is a picture-postcard of rustic New England charm. Faded
+sketches of rural landscapes adorn the walls; a beautifully carved dressing
+mirror stands in one corner; an old-fashioned accordion radiator gurgles quietly
+beneath the window. The most striking feature, an enormous, antique, four-poster
+bed, must be the largest piece of furniture in the house. Doorways lead west and
+south.
+
+Michael is curled up in bed, sound asleep.
+```
+
+### `> sleep`
+
+```
+You really should get in bed first.
+```
+
+### `> enter bed`
+
+```
+Gratefully, you remove your clothes, leave your things on the bedroom floor,
+crawl into bed and pull the covers up to your chin.
+
+Michael tosses uneasily, one hand waving vaguely in front of his face for a
+moment before sinking back once again into troubled sleep.
+```
+
+### `> sleep`
+
+```
+Something is nagging at you, preventing you from sleeping... suddenly you
+remember -- you've left the front door unlocked.
+```
+
+### `> get up`
+
+```
+
+>Reluctantly, you do so.
+
+Master Bedroom
+The master bedroom is a picture-postcard of rustic New England charm. Faded
+sketches of rural landscapes adorn the walls; a beautifully carved dressing
+mirror stands in one corner; an old-fashioned accordion radiator gurgles quietly
+beneath the window. The most striking feature, an enormous, antique, four-poster
+bed, must be the largest piece of furniture in the house. Doorways lead west and
+south.
+
+Your clothes lie in an untidy pile on the floor.
+
+Your trenchcoat is here.
+
+Michael is curled up in bed, sound asleep.
+
+You can also see your umbrella, a keyring (on which are Warning: @get_prop
+called with object 0 (PC = 16120) (will ignore further occurrences)
+two keys (a key to the house and a key to the cellar)), a flask (which is
+closed) and an old tin (which is closed) here.
+```
+
+### `> get all`
+
+```
+umbrella: Taken.
+clothes: Taken.
+trenchcoat: Taken.
+keyring: Taken.
+flask: Your hands are full.
+old tin: Your hands are full.
+```
+
+### `> wear clothes`
+
+```
+You put on the clothes.
+```
+
+### `> get flask`
+
+```
+Taken.
+```
+
+### `> get tin`
+
+```
+Your hands are full.
+```
+
+### `> go south`
+
+```
+Upstairs Landing
+A narrow hallway runs east, from the top of the stairs down the length of the
+house. To the north, directly opposite the stairs, is the master bedroom.
+```
+
+### `> go down`
+
+```
+Foyer
+Although it appears spacious from the outside, the house's interior feels
+cramped and gloomy. The walls seem too close together; the ceiling is too high.
+The doorways, leading in several directions, are narrow and filled with shadows,
+and the stairs leading up to the second floor are steep and rickety. This is not
+a house that makes you feel welcome. It is a house that makes you feel tiny and
+timid, and afraid of dark places. It is a house that makes you feel alone.
+
+The front door stands open to the south.
+
+Your luggage is still here, spread out all over the foyer.
+
+A cold, noiseless draft coils through the narrow entrance hall. You shiver,
+wondering where it came from.
+```
+
+### `> close front door`
+
+```
+You close the front door.
+```
+
+### `> lock front door with key to the house`
+
+```
+You lock the front door.
+```
+
+### `> go up`
+
+```
+Upstairs Landing
+A narrow hallway runs east, from the top of the stairs down the length of the
+house. To the north, directly opposite the stairs, is the master bedroom.
+```
+
+### `> go north`
+
+```
+Master Bedroom
+The master bedroom is a picture-postcard of rustic New England charm. Faded
+sketches of rural landscapes adorn the walls; a beautifully carved dressing
+mirror stands in one corner; an old-fashioned accordion radiator gurgles quietly
+beneath the window. The most striking feature, an enormous, antique, four-poster
+bed, must be the largest piece of furniture in the house. Doorways lead west and
+south.
+
+Michael is curled up in bed, sound asleep.
+
+You can also see an old tin (which is closed) here.
+```
+
+### `> enter bed`
+
+```
+Gratefully, you remove your clothes, leave your things on the bedroom floor,
+crawl into bed and pull the covers up to your chin.
+```
+
+### `> sleep`
+
+```
+
+>Almost immediately you fall asleep, and as the wind slithers around the eaves
+and the house creaks furtive secrets to itself, you drift into troubling
+dreams...
+
+You are waiting in your bed, with the coverlet up under your chin, waiting for
+Father to come tuck you in. Footsteps in the hall pause outside your door. You
+close your eyes; when you open them again Father is standing at the foot of the
+bed. His eyes are bloodshot, rimmed with red, and you wonder if he has been
+crying. Slowly, he starts to take off his belt.
+
+Only it's not your father after all, it's Michael. He hands you a golden sphere
+and says:
+
+"I don't know what it opens yet but I have an idea."
+
+Your reflection is like a little doll trapped inside the sphere. Everything is
+tinged with gold. Your face swells and stretches comically as you stare back at
+yourself through the curved, distorting walls. Reaching out, your fingers curve
+back on themselves... the wall breaks and...
+
+You are running from the eyes, the terrible red-rimmed eyes, through endless,
+narrow corridors of wooden slats and crumbling plaster. You stumble through turn
+after turn, hopelessly lost. There is a small hole in the boards -- peering
+You wake up. Steam billows gently by, and you can hear the sound of running
+water coming from the bathroom.
+
+You can hear Michael splashing around, noisily enjoying his shower.
+That's not a verb I recognise.
+That was a rhetorical question.
+```
+
