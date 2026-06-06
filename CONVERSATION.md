@@ -2708,3 +2708,79 @@ A narrow hallway runs east, from the top of the stairs down the length of the
 house. To the north, directly opposite the stairs, is the master bedroom.
 ```
 
+
+---
+
+*The bedroom. Michael is in there. I should join him. Tomorrow this all begins in earnest.*
+
+### `> go north`
+
+```
+Master Bedroom
+The master bedroom is a picture-postcard of rustic New England charm. Faded
+sketches of rural landscapes adorn the walls; a beautifully carved dressing
+mirror stands in one corner; an old-fashioned accordion radiator gurgles quietly
+beneath the window. The most striking feature, an enormous, antique, four-poster
+bed, must be the largest piece of furniture in the house.
+
+Michael is curled up in bed, sound asleep.
+
+If it weren't for this hopelessly backwater town and the disturbing
+circumstances surrounding the house, you'd say this was your dream home. Even
+so, as much as you would like to relax and enjoy the comforts of a fully
+furnished historical New England estate, you can't help but be put off by the
+shady aura surrounding the family that used to live here. The last of the line,
+you remind yourself, recently committed suicide after killing his wife and two
+daughters with a shotgun. Involuntarily you shiver, glancing nervously at the
+doorways to the south and west.
+```
+
+
+---
+
+*Killed his wife and two daughters. The last of the line. And now we are the line. I catch my own reflection and barely recognize the face looking back.*
+
+### `> examine mirror`
+
+```
+A flawless mirror in a beautifully scrolled walnut frame. It's about as tall as
+you are.
+```
+
+
+---
+
+*He looks so peaceful. How is he peaceful? Does he not feel what I feel — that the walls of this room are listening?*
+
+### `> examine bed`
+
+```
+Thick, goose-down mattress, linen sheets, feather pillows, gauze canopy -- it's
+about the most beautiful, inviting bed you've ever seen.
+```
+
+
+---
+
+*There's a door to the west. I should sleep. But something pulls me toward it instead.*
+
+### `> go west`
+
+```
+Bathroom
+A small chamber of cold, white tile and floral-print wallpaper. It sports a
+genuine, whitewashed, claw-foot bathtub with a shower attachment, which is a
+definite plus. The bedroom lies east.
+```
+
+
+---
+
+*Cold white tile, floral wallpaper — someone tried to make this homey once. A family lived here. Then he killed them. I stare at the claw-foot tub and try not to think about that.*
+
+### `> examine bathtub`
+
+```
+It looks deep enough to swim in. You could spend hours soaking in that thing.
+```
+
