@@ -1491,6 +1491,10 @@ definite plus. The bedroom lies east.
 It looks deep enough to swim in. You could spend hours soaking in that thing.
 ```
 
+---
+
+*Cold tile beneath bare feet. Someone put cheerful wallpaper up in here — I keep thinking about who that was, the wife he killed. Whether she stood in this exact spot with the same feeling I have now.*
+
 ### `> look`
 
 ```
@@ -1500,11 +1504,19 @@ genuine, whitewashed, claw-foot bathtub with a shower attachment, which is a
 definite plus. The bedroom lies east.
 ```
 
+---
+
+*The shower. Something so mundanely domestic it almost hurts. Everything in this house is ordinary until you remember who lived here last.*
+
 ### `> examine shower`
 
 ```
 It's just an ordinary-looking shower attachment.
 ```
+
+---
+
+*Nothing here. Just tile and a tub. Go back. Go to bed. Stop looking for things to be afraid of.*
 
 ### `> go east`
 
@@ -1526,6 +1538,10 @@ Michael is curled up in bed, sound asleep.
 You really should get in bed first.
 ```
 
+---
+
+*He waved something away in his sleep — a small, helpless gesture. Even unconscious he's not at rest here.*
+
 ### `> enter bed`
 
 ```
@@ -1543,11 +1559,15 @@ Something is nagging at you, preventing you from sleeping... suddenly you
 remember -- you've left the front door unlocked.
 ```
 
+---
+
+*The front door. Bare feet on cold wood, our whole life in a pile on the floor — I have to go back down through the dark to lock us in.*
+
 ### `> get up`
 
 ```
 
->Reluctantly, you do so.
+Reluctantly, you do so.
 
 Master Bedroom
 The master bedroom is a picture-postcard of rustic New England charm. Faded
@@ -1598,6 +1618,10 @@ Taken.
 Your hands are full.
 ```
 
+---
+
+*Leave the tin. The door is open to whatever's out there.*
+
 ### `> go south`
 
 ```
@@ -1625,6 +1649,10 @@ A cold, noiseless draft coils through the narrow entrance hall. You shiver,
 wondering where it came from.
 ```
 
+---
+
+*The door wide open to the night, our luggage scattered like a shipwreck. That cold draft from nowhere again. I cross the floor on bare feet and pull it shut.*
+
 ### `> close front door`
 
 ```
@@ -1636,6 +1664,10 @@ You close the front door.
 ```
 You lock the front door.
 ```
+
+---
+
+*Locked. I tell myself nothing can get in now. I stand in the foyer a moment not quite believing it, and then I go back up.*
 
 ### `> go up`
 
@@ -1661,6 +1693,10 @@ Michael is curled up in bed, sound asleep.
 You can also see an old tin (which is closed) here.
 ```
 
+---
+
+*The tin still on the floor. Michael asleep, unbothered. I slide in beside him and try to believe in morning.*
+
 ### `> enter bed`
 
 ```
@@ -1672,7 +1708,7 @@ crawl into bed and pull the covers up to your chin.
 
 ```
 
->Almost immediately you fall asleep, and as the wind slithers around the eaves
+Almost immediately you fall asleep, and as the wind slithers around the eaves
 and the house creaks furtive secrets to itself, you drift into troubling
 dreams...
 

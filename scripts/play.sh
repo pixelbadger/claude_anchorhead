@@ -52,6 +52,7 @@ CLEAN_OUTPUT=$(echo "$OUTPUT" | sed \
     -e '/^Are you sure you want to quit?/d' \
     -e '/   day /d' \
     -e '/^> *$/d' \
+    -e 's/^>//' \
     | sed -e '/^[[:space:]]*$/{ N; /^\n[[:space:]]*$/d }' \
     | sed -e 's/^[[:space:]]*//')
 
