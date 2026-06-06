@@ -856,10 +856,512 @@ You needn't worry about that.
 
 ---
 
-*[Session paused — currently at Dark Corner]*
+*The driveway leads through that high brick wall to the south. "You needn't worry about that" — but I do worry. Everything about this city makes me worry. Let me try going through anyway.*
 
-**Inventory**: wedding ring, trenchcoat, clothes, umbrella (open), house keys, flask (rotgut), tin of fish oil (Skagen, Denmark)
-### 📖 Game Response
+### `> go south`
+
+```
+Asylum Courtyard
+The grim, white-washed edifice of Danvers Asylum bounds this tiny, shadowed
+courtyard to the south, its narrow, barred windows staring blankly down at you
+like ranks of shriveled, empty eye sockets. You can escape through a narrow
+gateway in the high, brick wall to the north.
+```
+
+---
+
+*Danvers Asylum. Of course there's an asylum. The barred windows stare down like hollow sockets — this building has seen suffering, I can feel it from here. Whatever happened inside those walls, it left a mark on the air itself.*
+
+### `> examine asylum`
+
+```
+The whole place exudes a sense of oppressive claustrophobia -- standing in its
+shadow for even a second is enough to make your skin crawl. Even the seemingly
+innocuous motto emblazoned over the main entrance fills you with an inexplicable
+sense of foreboding.
+```
+
+### `> examine motto`
+
+```
+"Health, Discipline, Tranquillity" -- emblazoned in an arch over the double-
+snake symbol of a caduceus. Somehow, you are not reassured.
+```
+
+---
+
+*Health, Discipline, Tranquillity. Words that mean the opposite of themselves on a building like this. I wonder how many people walked through those doors and never came back to anything resembling any of those three things.*
+
+### `> examine entrance`
+
+```
+The whole place exudes a sense of oppressive claustrophobia -- standing in its
+shadow for even a second is enough to make your skin crawl. Even the seemingly
+innocuous motto emblazoned over the main entrance fills you with an inexplicable
+sense of foreboding.
+```
+
+### `> go north`
+
+```
+Dark Corner
+The rooftops above you lean so close together as to nearly block out the sky
+altogether, making this a particularly dark and unpleasant section of the city.
+The street leads away to the east, and a shadowy driveway leads through a high
+brick wall to the south.
+```
+
+---
+
+*Back in the dark corner. There's more town to explore — Michael should be coming from the university. Let me try northwest from the Narrow Street, up that hill.*
+
+### `> go east` → `> go southwest` → `> go northeast` → `> go south` *(courthouse closed)*
+
+```
+Side Alley
+This is a featureless blind alley, a dead end. Through the narrow and heavily
+shadowed opening to the northeast, you can see the square and the obelisk at its
+center.
+```
+
+```
+The courthouse is closed for the day.
+
+A sudden gust of wind blows a cold spray of rain into your face.
+```
+
+### `> go north` → `> go north` → `> go northwest`
+
+```
+Twisting Lane
+The lane narrows here to little more than a badly cobbled sidewalk as it wends
+its way up through a series of tortuous bends and switchbacks. In some places,
+the street is so steep that steps have been cut into it, worn down over the
+years and slick with moss. Your progress is blocked at the top of the street by
+a blank brick wall.
+```
+
+### `> examine wall`
+
+```
+It's just an ordinary-looking brick wall.
+```
+
+### `> go southeast` / `> go south` / `> go east` / `> go west` *(repeated — all loop)*
+
+```
+You take a few tentative steps back down the lane, but it seems to lead only to
+a short switchback, bringing you right back to the brick wall. You're not
+entirely sure now, which direction leads back to the narrow street.
+
+The clouds overhead mutter restlessly to themselves.
+```
+
+---
+
+*This lane is trying to swallow me. Every direction circles back to the same spot. The town itself is a maze and it's laughing at me.*
+
+### `> go southwest`
+
+```
+Narrow Street
+As the lane winds along from east to west, it narrows until the steep, jagged
+rooftops on either side of the street practically touch each other. To the
+south, a side street leads across Whateley Bridge toward the center of town, and
+a twisting lane leads up a hill to the northwest. A short flight of steps to the
+north leads down to the local watering hole.
+```
+
+---
+
+*Southwest. Of course. That lane deliberately scrambles your sense of direction — every step you take feels like the wrong one, until suddenly you're free. Like the town was testing me.*
+
+### `> go east` → `> wait` / `> wait` / `> wait`
+
+```
+Outside the Real Estate Office
+A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle
+of narrow, twisting avenues that largely constitute the older portion of
+Anchorhead.
+```
+
+```
+Time passes.
+```
+
+---
+
+*He's not here yet. The rain drips from my umbrella and I stand like a fool on these cobblestones. I haven't seen everything yet — there must be more town to find.*
+
+### `> go west` → `> go west`
+
+```
+Junction
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+
+In the distance, you can hear the lonesome keening of a train whistle drifting
+on the wind.
+```
+
+---
+
+*The university — northwest. Michael is somewhere up there. And a country lane north, over a heath. The train whistle again. I keep hearing it, like it's trying to tell me something.*
+
+### `> go northwest`
+
+```
+University Court
+Isolated and serene within its high, ivy-covered walls, Miskaton University
+represents this benighted town's single, if somewhat dubious, claim to cultural
+achievement. Founded some time in the early 1800s, the school's reputation and
+enrollment have diminished somewhat as Anchorhead drifts further and further
+into the abyss of provincial backwaterism. Still, it is generally recognized for
+its collection of folklore and esoteric mythology (one of the oldest and most
+extensive on the east coast). The Board of Deans was also kind enough to offer
+Michael a full professorship upon hearing of his recently discovered heritage
+and his plans to move into the estate. Ivory tower, perhaps, but at least they
+take care of their own.
+
+There are numerous buildings surrounding this cobbled court, but the only one
+you are interested in is the library to the west, where Michael told you he'd be
+until he came back to the real estate agent's office to pick you up. Which,
+incidentally, he has not yet done.
+```
+
+---
+
+*Miskaton University. Of course it's called that. Folklore and esoteric mythology — and they offered Michael a professorship the moment they heard the Verlac name. That's not a coincidence. That's a plan. Someone wanted us here.*
+
+### `> go west`
+
+```
+You close your umbrella, as is your habit after coming indoors.
+
+Library
+Shadows roost thickly in the vaulted ceiling, and small, green-shaded desk lamps
+cast pools of warm radiance here and there around the library's dim interior.
+You pause a moment to let the hushed peacefulness of this place soak in -- a
+welcome relief from the unsettling events of the day. An exit lies east, and a
+small alcove to the north houses the circulation counter.
+
+Peering through the shadows, you spot your husband sitting at one of the reading
+desks, absorbed in some sort of weighty tome and clearly oblivious to the time.
+```
+
+---
+
+*Michael. There he is, alive and real and buried in a book, utterly unaware that I've been wandering this terrible town for what feels like hours. I'm so relieved to see him that I almost forget to be annoyed.*
+
+### `> examine Michael`
+
+```
+Tall and a bit on the skinny side, in an endearingly awkward sort of way; a
+serious, thoughtful face topped with an unruly tangle of brown hair; deep brown
+eyes framed by wire-rimmed glasses -- yep, that's the man you married, all
+right.
+
+At the moment, Michael is largely absorbed in his reading, and is paying little
+attention to you.
+
+Michael turns to a new page in the book and begins reading intently.
+```
+
+### `> talk to Michael`
+
+```
+(about the Verlac family)
+Michael looks up, startled, then realizes it's you and smiles. "Hi, hon," he
+says, closing the book and stretching. Then he glances at his watch. "Good
+grief, what happened to the time? I'm so sorry -- I just lost track." He smiles
+sheepishly.
+
+"Well?" he asks. "Did you get the keys?"
+```
+
+### `> examine book`
+
+```
+Michael jerks the book away from you. "Excuse me," he says, a bit more sharply
+than you had expected, "I'll be done with it in a minute."
+```
+
+---
+
+*Sharp. That's not like him. Or maybe it is — I don't know anymore. Everything here is putting us on edge. I notice he didn't offer to show me what he's reading.*
+
+### `> go north`
+
+```
+Circulation Desk
+A high counter divides the public portion of the library from the reserved
+stacks -- all the more esoteric and mysterious volumes from the university's
+collection. If anything, the area behind the counter is even more shadowy than
+the side you're on. The main reading area lies south.
+
+Hanging on the wall next to the counter is a small, printed sign. Beneath the
+sign sits a heavy, dog-eared register, and sitting next to the register is a
+bell.
+```
+
+### `> examine sign`
+
+```
+"All restricted books must be signed for on the register, and may not be removed
+from this building. Please have your faculty ID ready when you make your
+request."
+```
+
+### `> examine register`
+
+```
+It's basically a log, recording what book was checked out, who checked it out,
+and when. There must be hundreds of names here.
+```
+
+### `> ring bell`
+
+```
+Ding.
+
+A moment later, the gaunt and fishy-eyed librarian emerges silently from the
+shadows behind the counter.
+```
+
+### `> examine librarian`
+
+```
+Her slack, pallid skin looks as if it has seen little more than the inside of a
+cave for most of her life. She stares at you silently with disturbingly large
+and watery eyes.
+```
+
+---
+
+*Gaunt, fishy-eyed, cave-pale. She watches me with those enormous wet eyes and says nothing. In Texas, librarians smiled at you. I miss Texas with a physical ache.*
+
+### `> talk to librarian`
+
+```
+(about the Verlac family)
+The librarian just looks at you.
+```
+
+### `> go south`
+
+```
+Without a word, the librarian fades back into the shadows.
+
+Library
+Shadows roost thickly in the vaulted ceiling, and small, green-shaded desk lamps
+cast pools of warm radiance here and there around the library's dim interior.
+
+Peering through the shadows, you spot your husband sitting at one of the reading
+desks, absorbed in some sort of weighty tome and clearly oblivious to the time.
+```
+
+---
+
+*He's still reading. Whatever is in that book has him completely. I should get him to leave — we need to get to the house before dark.*
+
+### `> show keys to Michael`
+
+```
+"Great!" says Michael. "You hang on to that. Just a second, I'll put this back."
+He takes the book up to the circulation desk and hands it to the librarian.
+"Okay then," he says, returning, "let's go."
+
+Michael suddenly smacks his forehead. "Oh, crap, I forgot to tell you. The car
+broke down." He spreads his hands. "I don't know what happened to it; one second
+I'm parking outside, the next second it dies and I can't get it started again. I
+called a tow truck, but the nearest garage is up in Arkham. They picked it up
+but won't be able to look at it until next week at the earliest. Anyway, it
+looks like we'll have to walk back to the house." He offers you a lame smile.
+"You can hold the umbrella."
+
+Your score has just gone up by two points.
+```
+
+---
+
+*"Did you get the keys?" Just like that. I broke into a building, heard our name whispered on a machine in an empty room, found our entire property file stripped clean — and he wants to know if I got the keys. I love him and right now I could shake him.*
+
+### `> go east` → `> go southeast`
+
+```
+University Court
+The rain is still coming down, so you open your umbrella.
+
+Michael hurries to catch up.
+```
+
+```
+Junction
+To the north, a gap in the crowded press of gloomy buildings opens onto a
+country lane, heading out over a grassy heath. The main street continues to the
+east, while to the northwest, over the top of a steep rise, you can just make
+out the vaulted rooftops of the university.
+
+Michael hurries to catch up.
+```
+
+### `> go north` *(wrong direction)*
+
+```
+"Actually," says Michael, "I think the house is in the other direction."
+```
+
+---
+
+*He knows which direction the house is. Of course he does. He's been in this town for what, an hour? And already he's navigating it like he belongs here. That thought unsettles me more than I expect.*
+
+### `> go east` → `> go south` → `> go south` → `> go east` → `> go south`
+
+```
+Narrow Street — Michael hurries to catch up.
+```
+
+```
+Whateley Bridge — "I apologized about the car, right?" says Michael sheepishly.
+```
+
+```
+Town Square — Michael strolls along after you.
+```
+
+```
+Riverwalk — Overhead, the swollen clouds flicker ominously with a greenish haze of sheet lightning.
+```
+
+```
+Chilly Avenue
+A clammy mist hangs thickly in the air, seeping through your clothes and making
+you shiver.
+
+Michael follows you.
+```
+
+### `> go southwest`
+
+```
+As you walk through, the mists part before your husband almost deferentially,
+quickly dissolving away into nothing.
+
+Scenic View
+The treeline falls away on the north side of this northwest-northeast bend in
+the road, giving way to a panoramic view of the Miskaton River Valley and the
+grubby little town of Anchorhead nestled within it. From here you can see the
+paper mill almost directly to the north; the solitary lighthouse and surrounding
+ocean to the northeast; and the dilapidated stone church below you to the east.
+Winding through it all is the oily black ribbon of the Miskaton, and almost
+directly in the center lies the little clearing of Town Square. You can just
+make out the shape of the obelisk from here.
+```
+
+---
+
+*"The mists part before your husband almost deferentially." Almost deferentially. As if the land already knows him. As if it has been waiting. From up here I can see the whole broken little town — the obelisk a dark dot at the center of it all, the oily river threading through everything like a wound that won't close.*
+
+### `> go northwest`
+
+```
+Outside the House
+The lane runs up from the southeast and ends at a wide clearing surrounded by
+gnarled and ancient trees. A wide, curving driveway runs up to the front door of
+your house, which lies north.
+
+The fabled Verlac family mansion looms before you in the gloom, its dark
+creaking presence dominating the clearing and, somehow, even though it is not
+visible through the trees, the entire valley. The foreboding shadow of the
+Verlacs seems to enshroud all of Anchorhead from here.
+
+A typewritten notice has been attached to the front door.
+
+"Well," says Michael, "this must be the place. We finally made it, honey. We're
+home!"
+```
+
+---
+
+*"We're home." He says it with such warmth and I stand here looking at this dark, looming thing and every instinct I have is screaming at me. This is not home. Home is somewhere far away and warm. This is something else entirely.*
+
+### `> examine notice`
+
+```
+It's a letter from the Arkham Regional Utilities Company, explaining that, due
+to wiring difficulties, the electricity will not be installed until next week.
+No phone service, either.
+
+"Well, that's wonderful news," remarks Michael dryly, reading over your shoulder.
+```
+
+---
+
+*No electricity. No phone. In a house that feels like it's been waiting for us, with something whispering our name on answering machines and every file about us stripped away. We'll be alone in there. Completely alone.*
+
+### `> examine house`
+
+```
+(the Verlac mansion)
+The house comprises two stories and an attic, and a smaller domed cupola atop
+the roof. Its windows are unlit and tightly shuttered, its roof steep and
+precipitous, and its grounds unkempt and strewn with weeds. The place
+unmistakably radiates an aura of thick, cold malevolence.
+```
+
+---
+
+*Thick, cold malevolence. The game's own words. Not merely gloomy or rundown — malevolent. The house hates us. Or wants us. I'm not sure which is worse.*
+
+### `> unlock door` → `> go north`
+
+```
+You unlock the front door.
+```
+
+```
+(opening the front door first)
+You close your umbrella, as is your habit after coming indoors.
+
+Foyer
+Although it appears spacious from the outside, the house's interior feels
+cramped and gloomy. The walls seem too close together; the ceiling is too high.
+The doorways, leading in several directions, are narrow and filled with shadows,
+and the stairs leading up to the second floor are steep and rickety. This is not
+a house that makes you feel welcome. It is a house that makes you feel tiny and
+timid, and afraid of dark places. It is a house that makes you feel alone.
+
+Carelessly stacked in a towering heap in the middle of the room are all your
+luggage and belongings, which you had sent ahead through a moving company before
+driving up to Massachusetts. Everything you own is boxed away and piled up in
+the middle of the floor. The reality of this move finally slams home as you
+stare at the sprawling jumble of stuff, and suddenly you feel very lost and
+adrift.
+
+Night has now undeniably fallen, and the house is very, very dark. There is
+probably just enough residual ambience to feel your way upstairs to the bedroom,
+but the rest of the house is a tenebrous maze of shadows, and any exploring
+would probably best be done in the morning.
+
+Michael stretches his arms and yawns. "Well," he says, "I think I'm going to
+turn in. There'll be plenty of time to unpack and explore tomorrow. Good night,
+hon." He kisses you on the cheek. "Don't stay up too late."
+
+And with that, he goes upstairs.
+```
+
+---
+
+*He kisses me on the cheek and goes upstairs. Just like that. Our entire life stacked in boxes in a dark house with no electricity and no phone, a town full of people who won't look us in the eye, a whispered name on a tape recorder — and Michael just... goes to bed. I stand here alone in the dark with all our belongings piled around me like a shipwreck, and I feel more lost than I ever have in my life.*
+
+---
+
+**End of Day One — Foyer, evening**
+
+**Inventory**: wedding ring, trenchcoat, clothes, umbrella (closed), house keys, flask (rotgut), tin of fish oil (Skagen, Denmark)
+
 
 ```
  Dark Corner                                         day one
