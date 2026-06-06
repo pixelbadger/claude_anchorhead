@@ -43,12 +43,17 @@ fi
     echo '```'
 } >> "$TRANSCRIPT"
 
-# Filter out save/quit prompts from game output
-CLEAN_OUTPUT=$(echo "$OUTPUT" | sed -e '/^>Please enter a filename/d' \
+# Filter dfrotz noise: save/quit prompts and status bar lines
+# Status bar lines have the form "[ ]RoomName<many spaces>day X" or "> RoomName<many spaces>day X"
+CLEAN_OUTPUT=$(echo "$OUTPUT" | sed \
+    -e '/^>Please enter a filename/d' \
     -e '/^Overwrite existing file?/d' \
     -e '/^Ok\.$/d' \
-    -e '/^>$/d' \
-    -e '/^Are you sure you want to quit?/d')
+    -e '/^Are you sure you want to quit?/d' \
+    -e '/   day /d' \
+    -e '/^> *$/d' \
+    | sed -e '/^[[:space:]]*$/{ N; /^\n[[:space:]]*$/d }' \
+    | sed -e 's/^[[:space:]]*//')
 
 # Append to conversation log: optional inner monologue, then command + game output
 {

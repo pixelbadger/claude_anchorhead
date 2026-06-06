@@ -2625,3 +2625,86 @@ And with that, he goes upstairs.
 > Foyer                                               day one, evening
 ```
 
+
+---
+
+*I stand alone in the dark foyer, our whole life in boxes around me. The house breathes. I'm sure of it.*
+
+### `> look`
+
+```
+ Foyer                                               day one, evening
+
+> Foyer                                               day one, evening
+
+Foyer
+Although it appears spacious from the outside, the house's interior feels
+cramped and gloomy. The walls seem too close together; the ceiling is too high.
+The doorways, leading in several directions, are narrow and filled with shadows,
+and the stairs leading up to the second floor are steep and rickety. This is not
+a house that makes you feel welcome. It is a house that makes you feel tiny and
+timid, and afraid of dark places. It is a house that makes you feel alone.
+
+The front door stands open to the south.
+
+Your luggage is still here, spread out all over the foyer.
+
+
+
+> Foyer                                               day one, evening
+```
+
+
+---
+
+*Everything we own, stuffed in boxes. Texas feels like another life. Another person's life.*
+
+### `> examine luggage`
+
+```
+ Foyer                                               day one, evening
+
+> Foyer                                               day one, evening
+
+It's all a huge, hopeless mess. Just looking at it instantly drains you of any
+desire to unpack.
+
+
+
+> Foyer                                               day one, evening
+```
+
+
+---
+
+*Michael is already asleep up there, I can feel it. I should rest. Tomorrow this house will still be here, still be wrong, still be ours.*
+
+### `> go up`
+
+```
+ Foyer                                               day one, evening
+
+> Upstairs Landing                                    day one, evening
+
+Upstairs Landing
+A narrow hallway runs east, from the top of the stairs down the length of the
+house. To the north, directly opposite the stairs, is the master bedroom.
+
+
+
+> Upstairs Landing                                    day one, evening
+```
+
+
+---
+
+*The upstairs landing. Narrow hallway east, bedroom north. The house is so quiet it hums.*
+
+### `> look`
+
+```
+Upstairs Landing
+A narrow hallway runs east, from the top of the stairs down the length of the
+house. To the north, directly opposite the stairs, is the master bedroom.
+```
+
